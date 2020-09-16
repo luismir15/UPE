@@ -1,0 +1,15 @@
+.about-title {
+    color: var(--accentYellow);
+}
+
+.about-subtitle{
+    color: var(--accentBlue);
+}
+
+.about-projecttitle {
+    color: var(--accentBlue);
+}
+
+.about-projectinfo {
+    color: var(--blueOpacity);
+}

@@ -1,0 +1,11 @@
+.footer {
+    background: var(--bgGradient);
+}
+
+.Footer__copyright{
+    color: var(--accentYellow);
+}
+
+.Footer__socialLink {
+    color: var(--accentBlue);
+}

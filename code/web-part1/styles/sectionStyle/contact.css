@@ -1,0 +1,11 @@
+.contact-title {
+    color: var(--accentYellow);
+}
+
+.contact-subtitle{
+    color: var(--accentBlue);
+}
+
+.contact-label {
+    color: var(--blueOpacity);
+}

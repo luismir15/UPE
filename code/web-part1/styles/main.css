@@ -1,0 +1,6 @@
+@import "./variables.css";
+@import "./sectionStyle/header.css";
+@import "./sectionStyle/about.css";
+@import "./sectionStyle/work.css";
+@import "./sectionStyle/contact.css";
+@import "./sectionStyle/footer.css";

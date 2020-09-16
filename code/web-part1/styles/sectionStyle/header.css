@@ -1,0 +1,20 @@
+.header {
+    background: var(--bgGradient);
+}
+
+.header-logo {
+    color: var(--white);
+}
+
+.header-navlink {
+    color: var(--white);
+}
+
+.header-highlights {
+    color: var(--accentYellow);
+}
+
+.header-title,
+.header-subtitle {
+    color: var(--white);
+}
