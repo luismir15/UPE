@@ -4,14 +4,32 @@
 
 .header-logo {
     color: var(--white);
+    font-family: "Karla", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 3.2rem;
 }
 
 .header-navlink {
     color: var(--white);
+    font-size: 2rem;
+    text-decoration: none;
 }
 
 .header-highlights {
     color: var(--accentYellow);
+    font-style: italic;
+}
+
+..header-title {
+    font-size: 4.8rem;
+    line-height: 1.2l
+    letter-spacing: 0.8rem;
+    font-weight: 700;
+}
+
+.header-subtitle {
+    font-size: 3.2rem;
 }
 
 .header-title,

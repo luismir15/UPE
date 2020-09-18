@@ -4,16 +4,22 @@
 
 .work-title {
     color: var(--accentYellow);
+    text-transform: uppercase;
+    font-size: 1.5rem;
 }
 
 .work-subtitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
 }
 
 .work-projecttitle {
     color: var(--accentBlue);
+    font-size: 2rem;
 }
 
 .work-projectinfo {
-    color: var(--blueOpacity)
+    color: var(--blueOpacity);
+    font-size: 1.5rem;
+    line-height: 1.4;
 }

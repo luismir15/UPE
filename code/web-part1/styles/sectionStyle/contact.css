@@ -1,11 +1,15 @@
 .contact-title {
     color: var(--accentYellow);
+    text-transform: uppercase;
+    font-size: 1.5rem;
 }
 
 .contact-subtitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
 }
 
 .contact-label {
     color: var(--blueOpacity);
+    font-size: 1.5rem;
 }

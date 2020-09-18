@@ -1,15 +1,16 @@
 .about-title {
     color: var(--accentYellow);
+    text-transform: uppercase;
+    font-size: 1.5rem;
 }
 
 .about-subtitle{
     color: var(--accentBlue);
+    font-size: 3.2rem;
 }
 
-.about-projecttitle {
-    color: var(--accentBlue);
-}
-
-.about-projectinfo {
+.about-bio {
     color: var(--blueOpacity);
+    font-size: 1.5rem;
+    line-height: 1.4;
 }

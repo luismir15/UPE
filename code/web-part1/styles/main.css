@@ -1,4 +1,5 @@
 @import "./variables.css";
+@import "./base.css";
 @import "./sectionStyle/header.css";
 @import "./sectionStyle/about.css";
 @import "./sectionStyle/work.css";
