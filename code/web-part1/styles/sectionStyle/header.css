@@ -1,8 +1,8 @@
 .header {
   height: 100vh;
   /*background: url("../../assets/header-bg.svg") center center no-repeat;*/
-  background: url("../../assets/unsplash.jpg") center center no-repeat;
-  background-size: cover;
+  background: url("../../assets/header.JPG") center center no-repeat;
+  background-size: auto;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 10% 1fr
@@ -20,7 +20,7 @@
 .header-navlink,
 .header-title,
 .header-subtitle {
-  color: var(--white);
+  color: var(--black);
 }
 
 .header-logo {
