@@ -1,11 +1,19 @@
 .header {
   height: 100vh;
   /*background: url("../../assets/header-bg.svg") center center no-repeat;*/
-  background: url("../../assets/header.JPG") center center no-repeat;
-  background-size: auto;
+  background-image: url("../../assets/header.JPG");
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
+  /*background-size: auto;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 10% 1fr
+  grid-template-rows: 10% 1fr*/
 }
 
 .header-navbar {
